@@ -1,2 +1,2 @@
-# wu1516-finalproject
-Final project for course WEBWEU01
+# WU2016-slutprojekt
+
