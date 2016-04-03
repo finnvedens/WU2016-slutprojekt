@@ -5,17 +5,19 @@ Det behöver inte vara ett verkligt företag eller förening utan du kan hitta p
 ##Arbetsgång.
 
 Det finns tre dokument som ska lämnas in i detta projekt.
-1.	En planering
-2.	HTML+CSS kod till webbplatsen
-3.	En rapport
+
+1. En planering
+2. HTML+CSS kod till webbplatsen
+3. En rapport
 
 ##1: Planering.
 Använd planeringsmallen. Detta innebär att du:
-•	gör en analys av webbplatsens målgrupper
-•	titta på liknade sidor för att se hur de ser ut samt vad de har för innehåll/funktionalitet
-•	intervjua två personer som representerar målgruppen
-•	ta fram en kravspecifikation
-•	ta fram en wireframe prototyp för organisation, struktur, navigering och layout.
++ gör en analys av webbplatsens målgrupper
++ titta på liknade sidor för att se hur de ser ut samt vad de har för innehåll/funktionalitet
++ intervjua två personer som representerar målgruppen
++ ta fram en kravspecifikation
++ ta fram en wireframe prototyp för organisation, struktur, navigering och layout.
+
 ##2: Webbplatsen.
 Webbplatsen skapas med HTML och CSS (och möjligtvis en aning Javascript).  Här får du ”låna” kod från andra webbplatser och använda er av HTML/CSS som vi har diskuterat – men du måste förstå vad det är du gör och hur det funkar!
 Ni ska använda Webstorm som IDE och kontinuerligt pusha ert projekt till GitHub. Detta försäkrar delvis att era projekt kan inte tappas bort, delvis att jag kan lätt följa er arbetsgång.
