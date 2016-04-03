@@ -1,7 +1,8 @@
 # WU2016-slutprojekt
 Detta projekt är slutexaminationen i kursen. I uppgiften ska du skapa en webbplats för någon organisation t.ex. ett företag, en förening eller en skola/utbildning. 
 Det behöver inte vara ett verkligt företag eller förening utan du kan hitta på en organisation. Du får även skapa webbplatsen åt ett verkligt företag - men i så fall måste det vara i samarbete med dem så du kan använda deras namn och varumärke. Du får alltså inte skapa en webbplats där du berättar om dig själv, en annan person eller ett intresse. Det måste finnas en organisation som äger webbplatsen och en tydlig målgrupp som ska specificeras.
-Arbetsgång.
+
+##Arbetsgång.
 
 Det finns tre dokument som ska lämnas in i detta projekt.
 1.	En planering
